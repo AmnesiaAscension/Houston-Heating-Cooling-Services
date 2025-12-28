@@ -1,0 +1,7 @@
+{
+  "name": "Houston Heating & Cooling Services",
+  "description": "High-converting, mobile-first lead-generation website for Houston Heating & Cooling Services, optimized for HVAC repair and installation in Houston, TX.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
